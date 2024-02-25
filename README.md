@@ -47,8 +47,3 @@
 
 
 
-###
-
-<img src="https://raw.githubusercontent.com/TechboyVerma/TechboyVerma/output/snake.svg" alt="Snake animation" />
-
-###
