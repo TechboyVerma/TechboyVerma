@@ -14,7 +14,7 @@
 ###
 
 <div align="left">
-  <img src="![image](https://github.com/TechboyVerma/TechboyVerma/assets/114131682/dfdc9df3-5ede-4cc8-8878-1d5834f40cf8)" height="30" alt="javascript logo"  />
+  <img src="https://github.com/TechboyVerma/TechboyVerma/assets/114131682/dfdc9df3-5ede-4cc8-8878-1d5834f40cf8" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
